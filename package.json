@@ -1,0 +1,17 @@
+{
+  "name": "example-mongoose-lean-hydrate",
+  "version": "1.0.0",
+  "description": "Lean option and hydrate method in mongoose. related post at http://clog.logicize.co/posts/topics/mongoose/mongoose-lean-hydrate/",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --timeout=0"
+  },
+  "author": "abskmj@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "mockgoose": "^8.0.1",
+    "mongoose": "^5.4.17"
+  }
+}
