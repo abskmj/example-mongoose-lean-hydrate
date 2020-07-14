@@ -12,6 +12,6 @@
     "chai": "^4.2.0",
     "mocha": "^6.0.2",
     "mockgoose": "^8.0.1",
-    "mongoose": "^5.4.17"
+    "mongoose": "^5.7.5"
   }
 }
