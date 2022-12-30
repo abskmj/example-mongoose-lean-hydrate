@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "mockgoose": "^8.0.1",
     "mongoose": "^5.4.17"
   }
